@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "raovapp",
+    "newDir": true,
+    "projectNamespace": "raov.app",
+    "projectNamespaceModule": "raov/app"
+  }
+}
